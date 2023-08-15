@@ -1,5 +1,6 @@
-# Junbo Li's Blog
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-## Exploring AI, Physics, Philosophy, and Life
-
-Welcome to the personal blog of Junbo Li. A fusion of intellect and curiosity, this space is dedicated to exploring the profound connections between AI, physics, philosophy, and life itself. Join me on a journey through complex algorithms, cosmic wonders, philosophical inquiries, and reflections on everyday existence. Together, we'll unravel the mysteries of the universe, one thought at a time.
+layout: home
+---
