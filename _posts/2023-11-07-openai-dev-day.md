@@ -4,7 +4,11 @@ date: 2023-11-07
 layout: post
 ---
 
-11月6日星期一[Open AI DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)，ChatGPT迎来重大更新，知识库终于更新到今年4月份，诚意满满。并且宣布GPT Store，向Creator伸出了橄榄枝，诚邀一起赚钱。下面是我对这次发布会的梳理：
+11月6日星期一[Open AI DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)，ChatGPT迎来重大更新，知识库终于更新到今年4月份，诚意满满。并且宣布GPT Store，向Creator伸出了橄榄枝，诚邀一起赚钱。下面是我对这次发布会的梳理。
+
+<div style="margin-bottom: 20px">
+  <img src="/assets/2023-11-07-openai-dev-day/gpts.png" class="centered-image" />
+</div>
 
 ### 发布了GPT-4 Turbo
 - 知识库从之前的2021年9月，更新到2023年4月，并且以后会加快同步速度。终于！
