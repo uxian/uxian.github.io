@@ -2,6 +2,7 @@
 title: "OpenAI 2023 DevDay 总结"
 date: 2023-11-07
 layout: post
+lang: zh
 ---
 
 11月6日星期一[Open AI DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)，ChatGPT迎来重大更新，知识库终于更新到今年4月份，诚意满满。并且宣布GPT Store，向Creator伸出了橄榄枝，诚邀一起赚钱。下面是我对这次发布会的梳理。

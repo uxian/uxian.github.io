@@ -2,6 +2,7 @@
 title: "《天才瑞普利》观后感"
 date: 2024-01-08
 layout: post
+lang: zh
 ---
 
 <div style="margin-bottom: 20px">

@@ -2,6 +2,7 @@
 title: "《月花杀手》剧透得死死的观后感"
 date: 2023-11-05
 layout: post
+lang: zh
 ---
 
 <div style="margin-bottom: 20px">

@@ -2,6 +2,7 @@
 title: "爸爸给妈妈的歌"
 date: 2023-10-31
 layout: post
+lang: zh
 ---
 
 两岁啦，我们的孩子  

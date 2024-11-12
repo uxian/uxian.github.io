@@ -1,0 +1,12 @@
+---
+title: "Review of 'Killers of the Flower Moon' with Spoilers"
+date: 2023-11-05
+layout: post
+lang: en
+---
+
+<div style="margin-bottom: 20px">
+  <img src="/assets/2023-11-05-killers-flower-moon/poster.jpg" class="centered-image" />
+</div>
+
+Every April, countless small flowers bloom, but by May, larger flowers steal the sunlight and rain, causing the smaller ones to wither and die in the shadows. This is what is known as the killers of the flower moon. Nature is indifferent, treating all things as mere straw dogs, and the fate it dictates is as cruel as the natural world. Our so-called civilization often uses a veneer of warmth to mask the brutality of human nature. If we do not revisit histories like the Osage massacres, we may fail to recognize the similarly brutal realities, carefully wrapped yet equally harsh, in our current lives. This film is an epic, meticulously depicting the wild atmosphere of that era and the belated justice. I saw the Osage people's simplicity and kindness during their internal meetings, where everyone sat together, and the elders, like old fathers, admonished their people. In contrast, Bill's gang and family, in dark and oppressive rooms, scolded Ernest for his weakness and stupidity. The film portrays the cold cruelty of whites towards Native Americans and the ruthless killing of fellow whites, transcending racial prejudice and being twisted into evil by money and the filth around them. Even the flower of love that bloomed amidst the deceit of money was extinguished and consumed. Mollie, knowing the other party's ill intentions, still chose to believe in Ernest's basic decency due to her kind nature. As a viewer, I, too, hoped Leonardo would be a unique and transcendent presence in that cruel world. We were disappointed time and again, yet we continued to hope for the prodigal son to return. But the innocent died, the hired killers were swiftly brought to justice, while the powerful murderers ultimately went unpunished, leaving one unable to let go. The rules of this world are always so frustrating, and even now, they haven't improved much. I thoroughly enjoyed the brilliant performances of all the actors, the trivial dialogues, and the Southern accents that were challenging to understand, all so rich and fitting, making me feel as if I were there. I have never been interested in Western-themed movies, but I was surprised to find myself enjoying this 3.5-hour-long Western film.

@@ -2,13 +2,14 @@
 title: "A Small Awakening - Freedom is Nature"
 date: 2024-11-07
 layout: post
+lang: en
 ---
 
 <div style="margin-bottom: 20px">
-  <img src="/assets/2024-11-07-freedom-nature/freedom-nature.jpg" class="centered-image" />
+  <img src="/assets/2024-11-07-freedom-nature/freedom-is-nature.jpg" class="centered-image" />
 </div>
 
-<meta property="og:image" content="https://junbo.li/assets/2024-11-07-freedom-nature/freedom-nature.jpg">
+<meta property="og:image" content="https://junbo.li/assets/2024-11-07-freedom-nature/freedom-is-nature.jpg">
 
 ### Excessive Blame and Pressure Bring Unfreedom
 

@@ -2,6 +2,7 @@
 title: "生活的和弦进行"
 date: 2023-09-17
 layout: post
+lang: zh
 ---
 
 <div style="margin-bottom: 20px">

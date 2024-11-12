@@ -27,10 +27,19 @@ url: "https://junbo.li" # the base hostname & protocol for your site, e.g. http:
 twitter_username: li5207
 github_username:  uxian
 
+languages: ["en", "zh"]
+default_lang: "en"
+exclude_from_localization: ["assets/css", "assets/img"]
+parallel_localization: true
+
+sass:
+  sourcemap: never
+  
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-polyglot
 show_excerpts: true
 
 # Exclude from processing.
@@ -52,3 +61,4 @@ show_excerpts: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
