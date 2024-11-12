@@ -23,6 +23,7 @@ jobs:
       run: |
         sudo chown $( whoami ):$( whoami ) ${{ github.workspace }}/_site
         cd ${{ github.workspace }}/_site
+        if [ -f ../CNAME ]; then cp ../CNAME ./; fi
         git init -b gh-pages
         git config user.name ${{ github.actor }}
         git config user.email ${{ github.actor }}@users.noreply.github.com
