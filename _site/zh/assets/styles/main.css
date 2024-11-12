@@ -1,0 +1,15 @@
+.circle-container {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
